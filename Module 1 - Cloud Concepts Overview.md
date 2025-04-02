@@ -151,7 +151,7 @@ Correct Answer: BD
 5- Which of the following is an advantage of AWS Cloud computing?  
 A. Trade security for elasticity  
 B. Trade operational excellence for agility  
-==C. Trade fixed expenses for variable expenses  ==
+==C. Trade fixed expenses for variable expenses==
 D. Trade elasticity for performance  
 Correct Answer: C
 
@@ -167,13 +167,13 @@ Correct Answer: CE
 A. Trade variable expenses for capital expenses.  
 ==B. Deploy globally in minutes.  ==
 C. Plan capacity in advance of deployments.  
-==D. Take advantage of economies of scale.  ==
+==D. Take advantage of economies of scale.==
 E. Reduce dependencies on network connectivity.  
 Correct Answer: BD
 
 8- Which option is an AWS Cloud Adoption Framework (AWS CAF) perspective?  
 A. Cloud uency  
-==B. Security  ==
+==B. Security==
 C. Change acceleration  
 D. Architecture  
 Correct Answer: B
@@ -208,9 +208,9 @@ Correct Answer: A
 responsive to customer inquiries and feedback.  
 Which tasks should the company perform to meet these requirements, according to the AWS Cloud Adoption Framework (AWS CAF)? (Choose  
 two.)  
-==A. Realign teams to focus on products and value streams.  ==
+==A. Realign teams to focus on products and value streams.==
 B. Create new value propositions with new products and services.  
-==C. Use agile methods to rapidly iterate and evolve.  ==
+==C. Use agile methods to rapidly iterate and evolve==
 D. Use a new data and analytics platform to create actionable insights.  
 E. Migrate and modernize legacy infrastructure
 Correct Answer: AC
