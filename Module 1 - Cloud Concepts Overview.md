@@ -11,7 +11,7 @@ Cloud computing is the on-demand delivery of compute power, database, storage, a
 	- Require you to provision capacity by guessing theoretical maximum peaks
 
 ### Cloud service models
-![[Pasted image 20250328141858.png]]
+![Pasted image 20250328141858](https://github.com/user-attachments/assets/8d3f111d-4e84-490a-a485-ca9d79a12080)
 
 #### 1. **Infrastructure as a Service (IaaS)**
 
@@ -32,7 +32,7 @@ Cloud computing is the on-demand delivery of compute power, database, storage, a
 
 
 ### Cloud computing deployment models
-![[Pasted image 20250328142752.png]]
+![Pasted image 20250328142752](https://github.com/user-attachments/assets/dc700b72-401a-4e9a-9cf1-ccfabf972c3c)
 
 ---
 ---
@@ -59,23 +59,23 @@ ___
 # Section 3: Introduction to Amazon Web Services (AWS)
 
 #### What are web services?
-![[Pasted image 20250328143718.png]]
+![Pasted image 20250328143718](https://github.com/user-attachments/assets/3209fd5b-fcab-44d5-afca-e62afbb52ddf)
+
 
 ### AWS Services
-![[Pasted image 20250328143921.png]]
+![Pasted image 20250328143921](https://github.com/user-attachments/assets/efe67fc5-27bd-4247-a48b-c7e84e3c253c)
 
 
 ### Three ways to interact with AWS
-![[Pasted image 20250328144059.png]]
+![Pasted image 20250328144059](https://github.com/user-attachments/assets/abcbfb4b-c83a-4326-9830-dd27c69e0e5c)
 
----
 ---
 # Section 4: Moving to the AWS Cloud –The AWS Cloud Adoption Framework (AWS CAF)
 
 
 The ==**AWS Cloud Adoption Framework (AWS CAF)**== helps organizations **accelerate cloud adoption** by providing **structured guidance** across key business and technical areas. It identifies **six key perspectives** that help organizations **plan, migrate, and optimize** their cloud journey.
 
-![[Pasted image 20250328145431.png]]
+![Pasted image 20250328145431](https://github.com/user-attachments/assets/007c61ac-0930-4bf4-a173-a77df08960bb)
 
 #### 1️⃣ **Business**
 
